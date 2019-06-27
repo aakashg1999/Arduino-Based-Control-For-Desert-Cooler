@@ -1,0 +1,11 @@
+Product	Model 																Quantity 	Price 	Total
+16x2 (1602) Character Green Backlight LCD Display 	EC-0048 				1 	Rs.115.00 	Rs.115.00
+DHT11 - Temprature and Humidity Sensor Module 	EC-0442 					1 	Rs.115.00 	Rs.115.00
+Arduino NANO V3.0 Development Board - Clone Compatible Model 	EC-0472 	1 	Rs.190.00 	Rs.190.00
+10K Ohm Linear Potentiometer 	EC-0807 									1 	Rs.9.50 	Rs.9.50
+2 Channel 5V Relay Module with Optocoupler 	EC-0894 						1 	Rs.115.00 	Rs.115.00
+220 ohm Resistor - 1/2 Watt - 5 Pieces Pack 	EC-1060 					1 	Rs.6.00 	Rs.6.00
+Sub-Total: 	Rs.550.50
+Flat Shipping Rate: 	Rs.49.00
+IGST (18%): 	Rs.107.91
+Total: 	Rs.707.41
